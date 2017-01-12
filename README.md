@@ -12,3 +12,4 @@ Shuffle Playlist:
 <br> 9. Send Me On My Way - Rusted Root
 <br> 10. Happy Together - The Turtles
 <br> 11. I Can't Help Myself (Sugar Pie, Honey Bunch) - Four Tops
+<br> 12. Why Can't We Be Friends - War
