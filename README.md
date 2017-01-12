@@ -24,3 +24,4 @@ Shuffle Playlist:
 <br> 21. Don't Stop Me Now - Queen
 <br> 22. Easy - Commodores
 <br> 23. Love Train - The O'Jays
+<br> 24. Uptight (Everything's Alright) - Stevie Wonder
