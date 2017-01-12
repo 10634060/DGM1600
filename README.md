@@ -6,3 +6,4 @@ Shuffle Playlist:
 <br> 3. Ain't No Mountain High Enough - Marvin Gaye, Tammi Terrell
 <br> 4. Rich Girl - Hall & Oates
 <br> 5. Superstition - Stevie Wonder
+<br> 6. Put Your Records On - Corinne Bailey Rae
